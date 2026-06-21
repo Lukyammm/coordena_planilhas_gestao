@@ -1,14 +1,44 @@
-# coordena_planilhas_gestao
+# Spreadsheet Coordination Management
 
+Repository: `coordena_planilhas_gestao`
 
+## Overview
 
+Repository reserved for spreadsheet coordination work. The current version contains documentation assets, but the app interface and backend files are still empty.
 
-## Guia visual do sistema
+## Main Capabilities
 
-> Telas demonstrativas baseadas nos componentes, textos, cores e fluxos encontrados no código deste repositório. Os dados exibidos são fictícios e não representam pacientes, profissionais ou instituições reais.
+- Repository-state documentation showing the current implementation gap.
+- Minimum blueprint for future bases, routines, indicators, and logs.
+- No production interface is represented as complete because the tracked code is empty.
 
-### Coordena Planilhas - estado do repositório
-![Coordena Planilhas - estado do repositório](./docs/screenshots/estado-repositorio.svg)
+## Operating Flow
 
-### Coordena Planilhas - blueprint mínimo
-![Coordena Planilhas - blueprint mínimo](./docs/screenshots/blueprint-minimo.svg)
+1. Review the repository-state image before presenting this project.
+2. Implement the frontend and Apps Script backend before calling it an operational system.
+3. Use the blueprint image only as a planning artifact.
+
+## Visual System Guide
+
+> The screens below are documentation mockups based on the components, labels, colors, and workflows found in this repository. All displayed data is fictitious and does not represent real patients, staff members, or institutions.
+
+### Spreadsheet Coordination - repository state
+![Spreadsheet Coordination - repository state](./docs/screenshots/repository-state.svg)
+
+### Spreadsheet Coordination - minimum blueprint
+![Spreadsheet Coordination - minimum blueprint](./docs/screenshots/minimum-blueprint.svg)
+
+## Data Privacy
+
+The repository documentation and guide images use fictitious sample data only.
+
+## Technologies
+
+- JavaScript
+- HTML/CSS
+- Google Apps Script
+- Google Sheets
+
+## Status
+
+Not implemented yet
